@@ -1,0 +1,4 @@
+Collaborative filtering mimics user-to-user recommendations. It predicts users preferences as a linear, weighted combination of other user preferences.collaborative filtering needs large dataset with active users who rated a product before in order to make accurate predictions. 
+#URL 
+run this application here 
+

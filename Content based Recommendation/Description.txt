@@ -1,1 +1,6 @@
 Content-based filtering, makes recommendations based on user preferences for product features. Content-based filtering can recommend a new item, but needs more data of user preference in order to incorporate best match.
+
+Google drive link to input files
+
+1. https://drive.google.com/file/d/1eY5QEVOzNROv7JUStGdy7vA6HsB7_Sx_/view
+2. https://drive.google.com/file/d/1tqdUlVYRunWLxQOiYBg7DYUoJtPJNmif/view
